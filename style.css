@@ -1,0 +1,62 @@
+body {
+    background: #f6f8fb; /* soft LinkedIn-like background */
+    color: #0a0a0a;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+  }
+  
+  #game-container {
+    max-width: 600px;
+    margin: auto;
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 35px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  }
+  
+  h1 {
+    color: #0a66c2; /* LinkedIn blue */
+    margin-bottom: 12px;
+  }
+  
+  #timer {
+    color: #555;
+    font-weight: bold;
+    margin-bottom: 22px;
+  }
+  
+  #question-text {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 14px;
+    margin: 8px 0;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background: #eef3f8;
+    color: #0a0a0a;
+    transition: all 0.2s ease;
+  }
+  
+  button:hover {
+    background: #0a66c2;
+    color: #ffffff;
+  }
+  
+  #startBtn {
+    background: #0a66c2;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  #startBtn:hover {
+    background: #004182;
+  }
+  
